@@ -67,7 +67,7 @@ Start the server
 
 - Integrations with a frontend application
 - Running a API in Dockerized Enviroment like Google App Engine
-- Making the ML model better with addition of Data 
+- Making the ML model more robust and inclusive with more complex architecture.
 - Experimenting with the use of Deep Learning Techniques to improve the recmmedation system ( e.g TabNet, Embedding Layers)
 - Building a Data Flywheel to automatically re-train the model based on addition of real world data 
 
